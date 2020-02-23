@@ -1,3 +1,7 @@
+# Changes
+I removed all the other files because I only really needed the two spirv_reflect.h/c files.
+
+
 # SPIRV-Reflect
 
 SPIRV-Reflect is a lightweight library that provides a C/C++ reflection API for
